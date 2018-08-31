@@ -1,0 +1,28 @@
+{
+  "name": "generator-elevationmodule-test",
+  "version": "1.0.0",
+  "description": "criar modulo elevation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfdiaspinto/generator-elevationmodule-test.git"
+  },
+  "author": "Miguel Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfdiaspinto/generator-elevationmodule-test/issues"
+  },
+  "homepage": "https://github.com/mfdiaspinto/generator-elevationmodule-test#readme",
+  "dependencies": {
+    "decamelize": "^2.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.1.1"
+  },
+  "files": [
+    "app",
+    "files"
+  ]
+}
